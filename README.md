@@ -1,6 +1,6 @@
 # AboutU.ID
 
-**AboutU.ID** - Dibuat untuk memenuhi syarat kelulusan kelas [Menjadi Front-End Developer Expert](https://www.dicoding.com/academies/123) di Dicoding Academy
+**AboutU.ID** - Dibuat untuk memenuhi syarat kelulusan kelas [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123) di Dicoding Academy
 
 ![Author](https://img.shields.io/badge/made%20by-Ardywsptr-blue)
 ![GitHub followers](https://img.shields.io/github/followers/Ardywsptr?style=social)
