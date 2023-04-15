@@ -4,17 +4,15 @@
 
 ![Author](https://img.shields.io/badge/made%20by-Ardywsptr-blue)
 ![GitHub followers](https://img.shields.io/github/followers/Ardywsptr?style=social)
-![GitHub watches](https://img.shields.io/github/stars/Ardywsptr/AboutU.ID_Submission-Belajar-Dasar-Pemrograman-Web
-?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ardywsptr/AboutU.ID_Submission-Belajar-Dasar-Pemrograman-Web
-)
+![GitHub watches](https://img.shields.io/github/stars/Ardywsptr/AboutU.ID_Submission-Belajar-Dasar-Pemrograman-Web?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ardywsptr/AboutU.ID_Submission-Belajar-Dasar-Pemrograman-Web)
 
 <br clear="both">
 
 ## User Interface :
 
 <div align="center">
-<img src="https://i.postimg.cc/hj1FzBGp/Simple-Green-Orange-and-Cream-Food-Business-Website-Social-Feed-Static-Ad.png" alt"AboutU.ID" width="800">
+<img src="https://i.postimg.cc/hj1FzBGp/Simple-Green-Orange-and-Cream-Food-Business-Website-Social-Feed-Static-Ad.png" alt"AboutU" width="800">
 </div>
 
 <br clear="both">
@@ -56,7 +54,7 @@ Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan ke
 
 ### Berikut kriteria submission yang harus Anda penuhi:
 
-* Terdapat elemen <header>, <footer>, <main>, <article>, dan <aside> di berkas HTML.
+* Terdapat elemen **header**, **footer**, **main**, **article**, dan **aside** di berkas HTML.
 * Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
 * Contohnya, elemen header berisi judul dan navigation, sedangkan konten artikel tidak boleh berada pada elemen header.
 * Wajib menampilkan identitas diri (biodata diri) yang minimal harus berisi foto asli diri dan nama sesuai profil Dicoding. Identitas diri wajib ditampilkan dalam elemen <aside>.
